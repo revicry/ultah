@@ -3,7 +3,7 @@
 // Animation GSAP timeline on load event
 window.addEventListener("load", () => {
   Swal.fire({
-    title: "Mau pake backgroung musicnya gak ayang?",
+    title: "Mau pake background musicnya gak ayang?",
     // text: "You won't be able to revert this!",
     icon: "warning",
     showCancelButton: true,
